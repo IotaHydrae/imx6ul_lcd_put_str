@@ -3,23 +3,14 @@
 #### 介绍
 LCD字符点阵输出，支持中英文混合输出，自动换行，字体颜色切换，适用于百问网imx6ul qemu虚拟机和imx6ul pro开发板。
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```shell
+# 注意查看Makefile内容，根据环境修改。
+book@100ask:~/apps/show_chinese$ make
+```
 
 #### 参与贡献
+> @[hz2]([hz2 (JensenHua) - Gitee.com](https://gitee.com/JensenHua))
 
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
